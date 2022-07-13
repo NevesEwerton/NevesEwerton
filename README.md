@@ -1,7 +1,7 @@
 ### Economist and Data Scientist 👋
 
 - 🔭 I’m currently working on a project for predicting sports results using ML and on my master's thesis
-- 🌱 I’m currently learning webscrapping in Python.
+- 🌱 I’m currently learning WebScraping in Python.
 - 😄 Pronouns: He/Him
 
 
