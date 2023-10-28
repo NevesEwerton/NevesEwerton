@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 ### IDE:
 
 <div style = "display: inline_block"><br>
-  <img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target = "_blanck">
-  <img align="center" alt="Ewerton-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Ewerton-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img align="center" alt="Ewerton-GCLoud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+ <a href="https://notepad-plus-plus.org/" target="_blank"><img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target = "_blanck"></a>
+   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><img align="center" alt="Ewerton-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Ewerton-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+   <a href="https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_512285710737-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General-KWID_43700062788251521-kwd-301173107424&utm_term=KW_google%20cloud-ST_Google+Cloud&gclid=EAIaIQobChMIxvnRkemZggMVFu-RCh3YYwzoEAAYASAAEgJ68fD_BwE&gclsrc=aw.ds" target="_blank"><img align="center" alt="Ewerton-GCLoud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"></a>
 </div>
 
 ##
