@@ -29,36 +29,20 @@ Here are some ideas to get you started:
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme_dracula"/>
 </div>
 
-
-### Languages:
+### Languages and Skills:
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Ewerton-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
- 
-</div>
-
-### Data Base
-
-<div style="display: inline_block"><br>
-
- <img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="Ewerton-GCLoud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-
+  <img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ewerton-GCLoud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+  <img align="center" alt="Ewerton-sqlserver" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" alt="Ewerton-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 
-### IDE:
-
-<div style = "display: inline_block"><br>
- <a href="https://notepad-plus-plus.org/" target="_blank"><img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target = "_blanck"></a>
-   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><img align="center" alt="Ewerton-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"></a>
-   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Ewerton-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-   <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-   <a href="https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0010101&utm_content=text-ad-none-any-DEV_c-CRE_512285710737-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP_General-KWID_43700062788251521-kwd-301173107424&utm_term=KW_google%20cloud-ST_Google+Cloud&gclid=EAIaIQobChMIxvnRkemZggMVFu-RCh3YYwzoEAAYASAAEgJ68fD_BwE&gclsrc=aw.ds" target="_blank"><img align="center" alt="Ewerton-GCLoud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"></a>
-</div>
-
-##
+### Contact me:
 
 <div>
 <a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "blanck"></a>
