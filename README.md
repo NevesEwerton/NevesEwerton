@@ -22,8 +22,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ewerton.cardoso@gmail.br**
 -->
 
+<div>
+
+<a href = "https://github.com/NevesEwerton">
+  
+<img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height = "100cm" src = "https://github-readme-stats.vercel.app/api?top.langs/?username=NevesEwerton&layout=compact&langs_count=16&theme_dracula"/>
 
 
+</div>
+
+
+##
 
 <div>
 <a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "blanck"></a>
