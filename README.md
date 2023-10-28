@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 -->
 
 <div>
-
-<a href = "https://github.com/NevesEwerton">
-  
+<a href = "https://github.com/NevesEwerton"> 
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme_dracula"/>
+</div>
+
+<div style = "display: inline_block"><br>
+  <img align="center" alt = "Ewerton-Python" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
 
 </div>
