@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ewerton.cardoso@gmail.br**
 -->
 
+### My Stats:
 <div>
 <a href = "https://github.com/NevesEwerton"> 
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme_dracula"/>
 </div>
 
-##
+
+### Languages:
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -38,11 +40,10 @@ Here are some ideas to get you started:
 </div>
 
 
-##
-
+### IDE:
 
 <div style = "display: inline_block"><br>
-  <img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target = "_black">
+  <img align="center" alt="Ewerton-NotePad" height="30" width="40" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target = "_blanck">
   <img align="center" alt="Ewerton-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Ewerton-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ewerton-MYSQL" height="30" width="40" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
