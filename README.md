@@ -1,4 +1,4 @@
-### Economist and Data Scientist 👋
+### Hi, my name é Ewerton Neves👋
 
 - 🔭 I’m currently working on an impact evaluation project for a public safety program.
 - 🌱 I’m currently learning WebScraping in Python.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me **ewerton.cardoso@gmail.br**
+ **ewerton.cardoso@gmail.br**
 -->
 
 ### My Stats:
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### Contact me:
+## 📫 How to reach me
 
 <div>
 <a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "blanck"></a>
