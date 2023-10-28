@@ -1,6 +1,6 @@
 ### Economist and Data Scientist 👋
 
-- 🔭 I’m currently working on a project for predicting sports results using ML and on my master's thesis
+- 🔭 I’m currently working on an impact evaluation project for a public safety program.
 - 🌱 I’m currently learning WebScraping in Python.
 - ⚡ Some of the projects posted here are Research Assistant periods at CCAS-FGV.
 - 😄 Pronouns: He/Him
