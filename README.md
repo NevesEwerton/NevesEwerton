@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 <div style = "display: inline_block"><br>
 <img align="center" alt="Ewerton-Tidyverse" height="50" width="50" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 <img align="center" alt="Ewerton-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-
-
+<img align="center" alt="Ewerton-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
 
 
