@@ -1,10 +1,31 @@
-## Hi, my name is Ewerton Neves 🇧🇷
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NevesEwerton.NevesEwerton" />
 
-- 🔭 I’m currently working on an impact evaluation project for a public safety program.
-- 🌱 I'm currently building my portfolio in data science and analysis.
-- 🔓 I'm currently expanding my web scraping and machine learning skills.
-- ⚡ Some of the projects posted here are Research Assistant periods at CCAS-FGV.
-- 😄 Pronouns: He/Him
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Ewerton+Neves!;" />
+  </a>
+</h1>
+
+<h3 align="center">A micro-applied economist passionate about causal inference and data-driven culture 🇧🇷</h3>
+
+</br>
+
+<div align="center">
+
+- 🔭 I’m currently working on an **impact evaluation project for a public safety program**.
+- 🌱 I'm currently building my **portfolio in data science and analysis**.
+- 🔓 I'm currently expanding my **web scraping and machine learning skills**.
+- ⚡ Some of the projects posted here are **Research Assistant periods at CCAS-FGV**.
+- 😄 Pronouns: **He/Him**.
+
+
+<div>
+<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target ="_blanck"></a>
+  <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blanck"></a>
+  <a href="https://medium.com/@ewertonneves_96164" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "_blanck"></a>
+</div>
 
 <!--
 **NevesEwerton/NevesEwerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +54,7 @@ Here are some ideas to get you started:
 
 
   
-#### Technologies
+#### Languages and Tools
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -83,28 +104,6 @@ Here are some ideas to get you started:
 <img align="center" alt="Ewerton-Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
 -->
-
-
-#### How to reach me 📫
-
-<div>
-<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
-  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target ="_blanck"></a>
-  <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blanck"></a>
-  <a href="https://github.com/NevesEwerton" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target = "_blanck"></a>
-
-</div>
-
-##
-
-#### Read me 🔜
-
-<div>
-
-  <a href="https://medium.com/@ewertonneves_96164" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "_blanck"></a>
-  
-</div>
 
   
 ![snake gif](https://github.com/NevesEwerton/NevesEwerton/blob/output/github-contribution-grid-snake.svg)
