@@ -12,14 +12,19 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on an **impact evaluation project for a public safety program**.
-- 🌱 I'm currently building my **portfolio in data science and analysis**.
-- 🔓 I'm currently expanding my **web scraping and machine learning skills**.
-- ⚡ Some of the projects posted here are **Research Assistant periods at CCAS-FGV**.
-- 😄 Pronouns: **He/Him**.
+🔭 I’m currently working on an **impact evaluation project for a public safety program**.
 
+ 🌱 I'm currently building my **portfolio in data science and analysis**.
+ 
+ 🔓 I'm currently expanding my **web scraping and machine learning skills**.
+ 
+ ⚡ Some of the projects posted here are **Research Assistant periods at CCAS-FGV**.
+ 
+ 😄 Pronouns: **He/Him**.
 
-<div>
+</div>
+
+<div align="center">
 <a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
   <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
   <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target ="_blanck"></a>
@@ -43,20 +48,9 @@ Here are some ideas to get you started:
  **ewerton.cardoso@gmail.br**
 -->
 
-#### My Stats 🔥
-<div style="display: inline_block">
-<a href = "https://github.com/NevesEwerton"> 
-<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
-</div>
-  
-##
-
-
-  
-#### Languages and Tools
-
-<div style = "display: inline_block"><br>
+<h2 align="center"> 🔥 Languages and Tools 🔥  </h2>
+<br>
+<div align="center" style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Ewerton-R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   
@@ -81,15 +75,7 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Ewerton-Laptop" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_14-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-</div>
-
-##
-
-#### Data Cleaning, Manipulation and Visualization 📈
-
-<div style = "display: inline_block"><br>
-
-<img align="center" alt="Ewerton-Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Ewerton-Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img align="center" alt="Ewerton-Tidyverse" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white">
 <img align="center" alt="Ewerton-Numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
 <img align="center" alt="Ewerton-PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
@@ -97,13 +83,17 @@ Here are some ideas to get you started:
 
 </div>
 
-##
-  <!--
-<img align="center" alt="Ewerton-Tidyverse" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
-<img align="center" alt="Ewerton-Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-<img align="center" alt="Ewerton-Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-</div>
--->
+<br><br/>
 
+<h3 align="center">  My Stats </h3>
+<br>
+<div style="display: inline_block">
+
+<a href = "https://github.com/NevesEwerton"> 
+<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
+</div>
+
+<br><br/>
   
 ![snake gif](https://github.com/NevesEwerton/NevesEwerton/blob/output/github-contribution-grid-snake.svg)
