@@ -53,9 +53,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
 
 
-
-  
-
+  <img align="center" alt="Ewerton-Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 </div>
 
