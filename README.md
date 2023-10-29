@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 #### My Stats 🔥
 <div style="display: inline_block">
 <a href = "https://github.com/NevesEwerton"> 
-<img align="center" height = "150" width = "500" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img align="center" height = "150" width = "500" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
+<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
 ##
