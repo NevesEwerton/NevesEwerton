@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
+  
+##
+  
 #### Technologies
 
 <div style = "display: inline_block"><br>
@@ -57,9 +59,9 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Ewerton-Laptop" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_14-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-  
-
 </div>
+
+##
 
 #### Data Cleaning, Manipulation and Visualization 📈
 
@@ -68,6 +70,8 @@ Here are some ideas to get you started:
 <img align="center" alt="Ewerton-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Ewerton-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
+
+##
 
 
 #### How to reach me 📫
@@ -81,6 +85,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/NevesEwerton" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target = "_blanck"></a>
 
 </div>
+
+##
 
 #### Read me 🔜
 
