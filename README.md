@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### Data Cleaning and Manipulation
+#### Data Cleaning and Manipulation
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Tidyverse" height="50" width="50" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
@@ -59,5 +59,14 @@ Here are some ideas to get you started:
   <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "blanck"></a>
   <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "blanck"></a>
 </div>
+
+#### Read me:
+
+<div>
+
+  <a href="https://medium.com/@ewertonneves_96164" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "blanck"></a>
+  
+</div>
+
   
 
