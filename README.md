@@ -23,14 +23,14 @@ Here are some ideas to get you started:
  **ewerton.cardoso@gmail.br**
 -->
 
-#### My Stats 🔥:
+#### My Stats 🔥
 <div>
 <a href = "https://github.com/NevesEwerton"> 
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-#### Languages and Skills:
+#### Languages and Skills
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 </div>
 
-#### Data Cleaning, Manipulation and Visualization 📈:
+#### Data Cleaning, Manipulation and Visualization 📈
 
 <div style = "display: inline_block"><br>
 <img align="center" alt="Ewerton-Tidyverse" height="50" width="50" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 
-#### How to reach me 📫:
+#### How to reach me 📫
 
 <div>
 <a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "blanck"></a>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "blanck"></a>
 </div>
 
-#### Read me 🔜:
+#### Read me 🔜
 
 <div>
 
