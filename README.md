@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-GCLoud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img align="center" alt="Ewerton-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   
-  <img align="center" alt="Ewerton-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   <img align="center" alt="Ewerton-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
   <img align="center" alt="Ewerton-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -73,23 +72,25 @@ Here are some ideas to get you started:
 <img align="center" alt="Ewerton-Tidyverse" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white">
 <img align="center" alt="Ewerton-Numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
 <img align="center" alt="Ewerton-PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
+<img align="center" alt="Ewerton-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 </div>
+
+##
   <!--
 <img align="center" alt="Ewerton-Tidyverse" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 <img align="center" alt="Ewerton-Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Ewerton-Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
 -->
-##
 
 
 #### How to reach me 📫
 
 <div>
-<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blanck"></a>
-  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blanck"></a>
-  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "_blanck"></a>
+<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target ="_blanck"></a>
   <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blanck"></a>
   <a href="https://github.com/NevesEwerton" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target = "_blanck"></a>
 
