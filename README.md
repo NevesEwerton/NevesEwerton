@@ -1,4 +1,4 @@
-## Hi, my name é Ewerton Neves 🇧🇷
+## Hi, my name is Ewerton Neves 🇧🇷
 
 - 🔭 I’m currently working on an impact evaluation project for a public safety program.
 - 🌱 I'm currently building my portfolio in data science and analysis.
