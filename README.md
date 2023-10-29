@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NevesEwerton&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-#### Languages and Skills
+#### Technologies
 
 <div style = "display: inline_block"><br>
   <img align="center" alt="Ewerton-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -45,8 +45,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-GCLoud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img align="center" alt="Ewerton-sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   
-  <img align="" alt="Ewerton-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img align="" alt="Ewerton-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Ewerton-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img align="center" alt="Ewerton-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  <img align="center" alt="Ewerton-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
 </div>
@@ -57,8 +59,6 @@ Here are some ideas to get you started:
 <img align="center" alt="Ewerton-Tidyverse" height="50" width="50" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 <img align="center" alt="Ewerton-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Ewerton-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-<img align="center" alt="Ewerton-Tableau" height="35" width="90" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-
 </div>
 
 
