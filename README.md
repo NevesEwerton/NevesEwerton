@@ -1,7 +1,7 @@
 ### Hi, my name é Ewerton Neves👋
 
 - 🔭 I’m currently working on an impact evaluation project for a public safety program.
-- 🌱 I'mcurrently building my portfolio in data science and analysis.
+- 🌱 I'm currently building my portfolio in data science and analysis.
 - 🔓 I'm currently expanding my web scraping and machine learning skills.
 - ⚡ Some of the projects posted here are Research Assistant periods at CCAS-FGV.
 - 😄 Pronouns: He/Him
