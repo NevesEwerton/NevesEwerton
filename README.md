@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 </div>
   
 ##
+
+
   
 #### Technologies
 
@@ -55,6 +57,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
   <img align="center" alt="Ewerton-Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img align="center" alt="Ewerton-SKL" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+
+  
+
 
   <img align="center" alt="Ewerton-Laptop" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_14-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
@@ -65,11 +72,19 @@ Here are some ideas to get you started:
 #### Data Cleaning, Manipulation and Visualization 📈
 
 <div style = "display: inline_block"><br>
+
+<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white">
+<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
+
+</div>
+  <!--
 <img align="center" alt="Ewerton-Tidyverse" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 <img align="center" alt="Ewerton-Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Ewerton-Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 </div>
-
+-->
 ##
 
 
