@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 <br><br/>
 
-<h3 align="center">  My Stats </h3>
+<h2 align="center">  My Stats </h2>
 <br>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
 
 <a href = "https://github.com/NevesEwerton"> 
 <img align="center" height = "150" width = "400" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -95,5 +95,7 @@ Here are some ideas to get you started:
 </div>
 
 <br><br/>
-  
+
+<h2 align="center"> 🐍 My Contributions 🐍 </h2>  
+
 ![snake gif](https://github.com/NevesEwerton/NevesEwerton/blob/output/github-contribution-grid-snake.svg)
