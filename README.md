@@ -1,4 +1,4 @@
-### Hi, my name é Ewerton Neves👋
+## Hi, my name é Ewerton Neves👋
 
 - 🔭 I’m currently working on an impact evaluation project for a public safety program.
 - 🌱 I'm currently building my portfolio in data science and analysis.
@@ -51,6 +51,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Ewerton-PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
   <img align="center" alt="Ewerton-Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+  <img align="center" alt="Ewerton-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
+ 
 
 
   <img align="center" alt="Ewerton-Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
