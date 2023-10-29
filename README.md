@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  **ewerton.cardoso@gmail.br**
 -->
 
-#### My Stats:
+#### My Stats 🔥:
 <div>
 <a href = "https://github.com/NevesEwerton"> 
 <img height = "100cm" src = "https://github-readme-stats.vercel.app/api?username=NevesEwerton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
