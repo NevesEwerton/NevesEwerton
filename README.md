@@ -1,11 +1,10 @@
-## Hi, my name é Ewerton Neves👋
+## Hi, my name é Ewerton Neves 🇧🇷
 
 - 🔭 I’m currently working on an impact evaluation project for a public safety program.
 - 🌱 I'm currently building my portfolio in data science and analysis.
 - 🔓 I'm currently expanding my web scraping and machine learning skills.
 - ⚡ Some of the projects posted here are Research Assistant periods at CCAS-FGV.
 - 😄 Pronouns: He/Him
-
 
 <!--
 **NevesEwerton/NevesEwerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,11 +76,10 @@ Here are some ideas to get you started:
 #### How to reach me 📫
 
 <div>
-<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "blanck"></a>
-  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "blanck"></a>
-  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "blanck"></a>
-  <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "blanck"></a>
-
+<a href="https://www.linkedin.com/in/ewerton-neves-6bb12996/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blanck"></a>
+  <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blanck"></a>
+  <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "_blanck"></a>
+  <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blanck"></a>
   <a href="https://github.com/NevesEwerton" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target = "_blanck"></a>
 
 </div>
@@ -92,7 +90,7 @@ Here are some ideas to get you started:
 
 <div>
 
-  <a href="https://medium.com/@ewertonneves_96164" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "blanck"></a>
+  <a href="https://medium.com/@ewertonneves_96164" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target = "_blanck"></a>
   
 </div>
 
