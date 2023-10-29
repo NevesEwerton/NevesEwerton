@@ -59,10 +59,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Ewerton-Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img align="center" alt="Ewerton-SKL" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-
-  
-
-
   <img align="center" alt="Ewerton-Laptop" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_14-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </div>
@@ -73,10 +69,10 @@ Here are some ideas to get you started:
 
 <div style = "display: inline_block"><br>
 
-<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white">
-<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
-<img align="center" alt="Ewerton-" src="  https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
+<img align="center" alt="Ewerton-Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" alt="Ewerton-Tidyverse" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white">
+<img align="center" alt="Ewerton-Numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
+<img align="center" alt="Ewerton-PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
 
 </div>
   <!--
