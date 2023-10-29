@@ -73,6 +73,9 @@ Here are some ideas to get you started:
   <a href="mailto:ewerton.cardoso@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "blanck"></a>
   <a href="mailto:ewerton-25@hotmail.com" target="_blank"><img align="center" src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target = "blanck"></a>
   <a href="https://www.instagram.com/neves.ewerton/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "blanck"></a>
+
+  <a href="https://github.com/NevesEwerton" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target = "_blanck"></a>
+
 </div>
 
 #### Read me 🔜
