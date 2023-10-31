@@ -96,10 +96,11 @@ Here are some ideas to get you started:
 
 <br><br/>
 
-<h2 align="center"> 🐍 My Contributions 🐍 </h2>  
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=NevesEwerton&theme=gotham&hide_border=true&area=true)
 
 
 <!--
 ![snake gif](https://github.com/NevesEwerton/NevesEwerton/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center"> </h2>  
+
