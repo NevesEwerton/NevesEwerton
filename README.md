@@ -97,10 +97,11 @@ Here are some ideas to get you started:
 <br><br/>
 
 
-[![Ewerton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NevesEwerton&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
 ![snake gif](https://github.com/NevesEwerton/NevesEwerton/blob/output/github-contribution-grid-snake.svg)
 <h2 align="center"> </h2>  
+
+[![Ewerton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NevesEwerton&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
