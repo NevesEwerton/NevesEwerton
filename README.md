@@ -12,7 +12,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on an **impact evaluation project for a public safety program**.
+✨ I'm currently working as a data analyst on a project monitoring federal spending on urban development at IPEA (Institute for Applied Economic Research). 
+
+🔭 I recently defended my master's thesis, where I conducted an impact assessment of a public security program.
 
  🌱 I'm currently building my **portfolio in data science and analysis**.
  
